@@ -1,0 +1,68 @@
+Wisc ID: tsoeda
+GitHub ID: SCP-11
+
+[X] correct P2 Canvas Assignment submission [none]: 
+[X] clear explanations in p2-workbook.txt [none]: 
+[X] correct P2G Canvas Assignment submission on time [none]: 
+[X] program runs (or seems to run correctly - worth looking at error console) [final-grtown]: 
+[X] frame rate seems OK (not too slow) [final-grtown]: 
+[X] UI is there and seems to work (can lookat and ride) [final-grtown]: 
+[ ] highlight list looks OK [final-grtown]: 
+[X] visually distinct from example [final-grtown]: 
+[X] theme makes sense (need explanation) [final-grtown]: Battle field in a video game theme
+[X] cool theme bonus (need explanation) [final-grtown]: 
+[X] objects created for this assignment 1, not trivial, can be identified in world (need explanation) [final-grtown]: The helicopter
+[ ] objects created for this assignment 2, not trivial, can be identified in world (need explanation) [final-grtown]: The game console
+[X] 5 more kinds of objects 1, not trivial, can identify (need explanation) [final-grtown]: Tank that can be built and destoyed.
+[X] 5 more kinds of objects 2, not trivial, can identify (need explanation) [final-grtown]: Fork lift that recover the tank and carry it
+[X] 5 more kinds of objects 3, not trivial, can identify (need explanation) [final-grtown]: Drone that finds the tank to destroy it
+[X] 5 more kinds of objects 4, not trivial, can identify (need explanation) [final-grtown]: Miniloader
+[X] 5 more kinds of objects 5, not trivial, can identify (need explanation) [final-grtown]: A game console
+[X] has building, natural, vehicle (need explanation) [final-grtown]: two kinds of buildings and trees
+[ ] loaded model (need explanation) [final-grtown]: The red building, the helicopter, and the game console
+[ ] shader: identifiable and not trivial (need explanation) [final-grtown]: 
+[X] three behaviors you made 1, not trivial, can be identified in scene (need explanation) [final-grtown]: Building tank and moving around
+[X] three behaviors you made 2, not trivial, can be identified in scene (need explanation) [final-grtown]: Fork Lift move the tank 
+[X] three behaviors you made 3, not trivial, can be identified in scene (need explanation) [final-grtown]: Drone detecting the tank
+[X] at least one object is rideable / followable [final-grtown]: Tank is rideable
+[X] behavior that is not simple (need explanation) [final-grtown]: Tank, drone, and fork lift behavior are not simple
+[X] articulated figure (need explanation) [final-grtown]: Tank, drone, and fork list are articulated
+[X] advanced thing 1: has a challenge type (need the name and number from the list) [final-grtown]: 7. Key-Framing
+[X] advanced thing 1: works properly, can be identified in the town (need explanation) [final-grtown]: Many articulated figure including tank, drone, and fork lift
+[ ] advanced thing 1: points above and beyond (need explanation) [final-grtown]: 
+[X] advanced thing 2: has a challenge type (need the name and number from the list) [final-grtown]: 2.Complex Behavior: Tank, drone, and fork lift together form a infinite loop
+[X] advanced thing 2: works properly, can be identified in the town (need explanation) [final-grtown]: Can be identified by looking at the tank
+[ ] advanced thing 2: points above and beyond (need explanation) [final-grtown]: 
+[X] advanced thing 3: has a challenge type (need the name and number from the list) [final-grtown]: 13. Large Diversity of objects or behaviors
+[X] advanced thing 3: works properly, can be identified in the town (need explanation) [final-grtown]: Drone, Tank, and Fork lift all moving differently and working together
+[ ] advanced thing 3: points above and beyond (need explanation) [final-grtown]: 
+[X] advanced thing 4: has a challenge type (need the name and number from the list) [final-grtown]: 1.None of the Below
+[X] advanced thing 4: works properly, can be identified in the town (need explanation) [final-grtown]: Added a screen that shows the FOV of the tank
+[ ] advanced thing 4: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 5: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 5: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 5: points above and beyond (need explanation) [final-grtown]: 
+
+If you have loaded any geometry from OBJ files, use the space below to credit your source for each file. Be sure to include a confirmation that you are permitted to use this asset (e.g., it is released under a Creative Commons license).
+
+You can follow this format, or something similar:
+
+- an-example-file.obj
+  - source: https://graphics.cs.wisc.edu/Courses/559-sp2021/
+  - author: username123
+ - license: CC BY 2.0
+
+- Metal_006_SD
+  - metal texture: https://3dtextures.me/2022/05/13/metal-006/
+
+- Camo
+  - https://www.texturecan.com/details/11/#google_vignette
+
+- hanger.fbx
+  - https://www.cgtrader.com/free-3d-models/industrial/other/hangar-red-metal
+
+- heli2.fbx
+  - https://www.cgtrader.com/free-3d-models/aircraft/military-aircraft/combat-vtol-guppy
+
+- console.fbx
+  - https://www.turbosquid.com/3d-models/3d-game-console-device-1834413
